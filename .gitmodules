@@ -1,0 +1,3 @@
+[submodule "en-us-sync"]
+	path = en-us-sync
+	url = git@github.com:LowEntropyBody/en-us-sync.git
